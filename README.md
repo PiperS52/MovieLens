@@ -1,2 +1,2 @@
 # Movielens-project
-HarvardX Movielens Project
+A project using machine learning to predict movie ratings
